@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quick Notes</string>
+    <string name="quick_note">Quick note</string>
+    <string name="clear_all">Clear All</string>
+    <string name="no_notes_available">No notes available</string>
+    <string name="description">Description</string>
+    <string name="note">Note</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="quicknote">QuickNote</string>
+    <string name="ok">OK</string>
+    <string name="delete">delete</string>
+</resources>
